@@ -51,7 +51,8 @@ This project is an interactive **Sales Dashboard** built using **Tableau** to an
 > Add a screenshot of your dashboard here.
 
 Example:
-img width="1187" height="896" alt="Screenshot 2026-07-17 173503" src="https://github.com/user-attachments/assets/030a1150-453f-43a3-9c1f-77ed07c3ea41" 
+
+![Sales Dashboard](dashboard.png)
 
 ---
 
