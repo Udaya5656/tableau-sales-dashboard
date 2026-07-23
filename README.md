@@ -1,3 +1,4 @@
+<img width="1187" height="896" alt="Screenshot 2026-07-17 173503" src="https://github.com/user-attachments/assets/b482692b-f0a1-4ba9-bc65-63f9f6c5494c" />
 # 📊 Sales Dashboard – Tableau
 
 ## 📌 Project Overview
